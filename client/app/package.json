@@ -9,6 +9,6 @@
   "author": "David Ansermino <david@chainsafe.io>",
   "license": "ISC",
   "dependencies": {
-    "electron": "^2.0.4"
+    "electron": "^33.4.8"
   }
 }
